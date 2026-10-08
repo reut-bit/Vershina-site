@@ -1,0 +1,377 @@
+[
+  {
+    "path": "CLAUDE-START.md",
+    "bytes": 21264,
+    "sha256": "aadc863cf59c1077e62c0e1402d9e1c30d53252e31266968fe999b758c802018"
+  },
+  {
+    "path": "pered-publikatsiey.md",
+    "bytes": 7169,
+    "sha256": "712ba59a7a453742c1ee0345bd23d797aea771b437dad326c1b089490602336a"
+  },
+  {
+    "path": "site/diplomas/document-01.pdf",
+    "bytes": 2819121,
+    "sha256": "7507ebfdbc7b3772d0b98688a3bac860201b4d01eb213693dd309f05bd755c0a"
+  },
+  {
+    "path": "site/diplomas/document-02.pdf",
+    "bytes": 644759,
+    "sha256": "7b454128de2f36e7b913ffa99237736976344671a358ab85e7a438ffc6187006"
+  },
+  {
+    "path": "site/diplomas/document-04.pdf",
+    "bytes": 1176970,
+    "sha256": "2b4cba256a185dba75658aa484a8821c4833e4548a68f2ca66062820ab6db18b"
+  },
+  {
+    "path": "site/diplomas/document-05.pdf",
+    "bytes": 333177,
+    "sha256": "fae0b733c101361a4187a3f8d528b9959c7d972e3b7782acb6370cc5a2ff3079"
+  },
+  {
+    "path": "site/diplomas/document-06.pdf",
+    "bytes": 12014651,
+    "sha256": "bb966646e382a28122f39870aafe2ac82ee42a1f45079cba9fe1c53a0ba04d63"
+  },
+  {
+    "path": "site/diplomas/document-07.pdf",
+    "bytes": 1018479,
+    "sha256": "e5b998cb821b1ae45717d270e72ecca0d11d27bfe7d36a9a3b6e67438ff2577f"
+  },
+  {
+    "path": "site/diplomas/document-09.pdf",
+    "bytes": 5421297,
+    "sha256": "fcf2c0d72fa3bf2c25b952240422dacf0c6b01944af3b612bd4d66356424dc4c"
+  },
+  {
+    "path": "site/diplomas/document-10.jpeg",
+    "bytes": 117238,
+    "sha256": "596cfd24f6a2b5ed7e1000c2b917ca4591c414634c0c6ab4e276296c468c3cb3"
+  },
+  {
+    "path": "site/diplomas/document-11.jpg",
+    "bytes": 1283487,
+    "sha256": "c5bc6459c9eb4c17ae10530024133cd0701134d88b8f11e37a8c2f42fd0a54dd"
+  },
+  {
+    "path": "site/diplomas/document-12.jpg",
+    "bytes": 140507,
+    "sha256": "c438a49275e4fd8b0a6d087ce54b25f57d377e7ccb98f89b0bac43a2a5a2a203"
+  },
+  {
+    "path": "site/diplomas/document-13.jpg",
+    "bytes": 1032800,
+    "sha256": "d5909bfa6d86bd615353147c6fd62f902625763c1024747a04d05f2b7c8fa981"
+  },
+  {
+    "path": "site/diplomas/document-14.jpg",
+    "bytes": 1308671,
+    "sha256": "b70f2e9635e017ee67ace2804a1bb097300530b6ae726fc9578c91464c6d96ec"
+  },
+  {
+    "path": "site/diplomas/document-15.jpg",
+    "bytes": 1313258,
+    "sha256": "1bc6df8a23a782aa2b3abe71242e7d7448c72477b374b50d290ad830c4c6e3a6"
+  },
+  {
+    "path": "site/diplomas/document-16.jpg",
+    "bytes": 1309766,
+    "sha256": "fb61165f298e7335990f03ae9f50bd9003fa9d0773e88808f28c67efd445fee0"
+  },
+  {
+    "path": "site/diplomas/document-17.jpg",
+    "bytes": 430998,
+    "sha256": "1bd3a62583eb03c9db79228e37d1baf2902c7d3d6280adf41e57116f39d0cd9e"
+  },
+  {
+    "path": "site/diplomas/document-18.jpg",
+    "bytes": 414314,
+    "sha256": "322bad98c024bd3b0a1c9a0a14f34e77dab8af168a26407c278b88c47bf6731c"
+  },
+  {
+    "path": "site/diplomas/document-19.jpg",
+    "bytes": 1204817,
+    "sha256": "b1fb63d4822bb46961a39f323cc11a8ad794a0411e88a3c770045274b48657d4"
+  },
+  {
+    "path": "site/diplomas/document-20.png",
+    "bytes": 875648,
+    "sha256": "fe3620b48852345cda98574e503e578e9d58c1fb7eac1bac96e3240dbf14cd65"
+  },
+  {
+    "path": "site/diplomas/document-21.png",
+    "bytes": 1115886,
+    "sha256": "678a15cb8fca51538f99beddeb2207efc29d6bf09f95dec1412e36e1835e5dfc"
+  },
+  {
+    "path": "site/diplomas/document-22.png",
+    "bytes": 1691236,
+    "sha256": "9eec7ef384c48f70c495b535b7210c3c4694d26fe0eeff9e650fb838c45abdd8"
+  },
+  {
+    "path": "site/diplomas/document-23.png",
+    "bytes": 767093,
+    "sha256": "bf15f080bc7834a8b619786c719dbb2ce633789cd64fbbf7124465c401d983c9"
+  },
+  {
+    "path": "site/diplomas/document-24.jpg",
+    "bytes": 216502,
+    "sha256": "63b47844d5635aa8acf6a1c451cdfa2f369b233d8f1401bc0cb4613185f395b9"
+  },
+  {
+    "path": "site/diplomas/preview-01.jpg",
+    "bytes": 61113,
+    "sha256": "168221e7e760144631f6d6f9f61694a65305b570a2b11d6277c0cd6a1fafa983"
+  },
+  {
+    "path": "site/diplomas/preview-02.jpg",
+    "bytes": 50499,
+    "sha256": "6008ce3fdeeed2d3691667254836cfd4862f9f26807123944fda4c61cc48993c"
+  },
+  {
+    "path": "site/diplomas/preview-04.jpg",
+    "bytes": 52481,
+    "sha256": "603a34ee130c02214efb5975475a52509214ee722f4900f5a497e1ca97e3c787"
+  },
+  {
+    "path": "site/diplomas/preview-05.jpg",
+    "bytes": 45191,
+    "sha256": "e68d0a4bc5c5ca05136ca1bf8a31041830c923e1dca67195b359ef557693ec45"
+  },
+  {
+    "path": "site/diplomas/preview-06.jpg",
+    "bytes": 42901,
+    "sha256": "7cbe893ced1783bddbe980ec3e0d65e103765ae6aa97c9d909040d5d969a0826"
+  },
+  {
+    "path": "site/diplomas/preview-07.jpg",
+    "bytes": 47051,
+    "sha256": "155f3402db80e88326b996596c63c656362502d4b5909c99112ba9f6f471374c"
+  },
+  {
+    "path": "site/diplomas/preview-09.jpg",
+    "bytes": 55656,
+    "sha256": "feb8fde1236a3c6cf40ab3b5dc0447965728d71c3cd240cc2b9de38e9e55f762"
+  },
+  {
+    "path": "site/diplomas/preview-10.jpg",
+    "bytes": 57494,
+    "sha256": "e50d814162a4a7d2cd8ee3d567b4010fddc9cf49a3e949b0c755d2d448785040"
+  },
+  {
+    "path": "site/diplomas/preview-11.jpg",
+    "bytes": 81949,
+    "sha256": "f38635bb2a3816c24df5e4a2fff33ab4df8a82885e3b996dfb61a49b11b0c922"
+  },
+  {
+    "path": "site/diplomas/preview-12.jpg",
+    "bytes": 68578,
+    "sha256": "4da4e3cae7d8d5b50f2cb2518786594993be3387f74bd8f2d8d9670fb862e8cf"
+  },
+  {
+    "path": "site/diplomas/preview-13.jpg",
+    "bytes": 75146,
+    "sha256": "dec525cacd20236bdf4186a9f4f4d70c409c12eb4dc6a3e0c6ffedaf906ef386"
+  },
+  {
+    "path": "site/diplomas/preview-14.jpg",
+    "bytes": 80742,
+    "sha256": "969a53aeedbda7781bbac9f634404147f406dbc2dda6fe38fc3755224229d1f8"
+  },
+  {
+    "path": "site/diplomas/preview-15.jpg",
+    "bytes": 76066,
+    "sha256": "d68d4a0afbb735936e2687f54bf94af659e3eea34601744001e4a2971ec9cd7b"
+  },
+  {
+    "path": "site/diplomas/preview-16.jpg",
+    "bytes": 75651,
+    "sha256": "3bd847c1686f661ac5512f35717ba4f8499b43b45b032ecc8d2c63fa21dad792"
+  },
+  {
+    "path": "site/diplomas/preview-17.jpg",
+    "bytes": 41174,
+    "sha256": "ad2b0c8f6845e6d6a37377f484756e950256cfd5fcbf39996f8fa18c7169f910"
+  },
+  {
+    "path": "site/diplomas/preview-18.jpg",
+    "bytes": 38998,
+    "sha256": "d5090742fdbc7534c980d53ca82da6d9dd154db7f57d762dcf1117f1268f7eb6"
+  },
+  {
+    "path": "site/diplomas/preview-19.jpg",
+    "bytes": 93657,
+    "sha256": "c1d11a2f33fafd49931e9781a5b665775dc48d26d921346510ffa314ab269cdf"
+  },
+  {
+    "path": "site/diplomas/preview-20.jpg",
+    "bytes": 42113,
+    "sha256": "56a2347b9d335df7f6bebed52f5071827ab8f22c54886f8d1cda9143b3e32501"
+  },
+  {
+    "path": "site/diplomas/preview-21.jpg",
+    "bytes": 52714,
+    "sha256": "7fd3b41727ee044a2059d632b85c87e167af0e1fb36a9dfbbdf1ac3cfe2af45a"
+  },
+  {
+    "path": "site/diplomas/preview-22.jpg",
+    "bytes": 54804,
+    "sha256": "1b2cc04eaff0fefd8567e1aea8e1058fa5a0b5ca9757c7614687fc3971a49355"
+  },
+  {
+    "path": "site/diplomas/preview-23.jpg",
+    "bytes": 54053,
+    "sha256": "f5f78c72948631b38f711bab250fce123869d68b57f0d295f5c131a205cdaaea"
+  },
+  {
+    "path": "site/diplomas/preview-24.jpg",
+    "bytes": 48856,
+    "sha256": "5498e90519d5716737792964ced951a4cb20acea02f402c40c333fe79622829f"
+  },
+  {
+    "path": "site/diplomy-i-razvitie.html",
+    "bytes": 49163,
+    "sha256": "b7660ce76719b0da7eea539022fdae2387dfe97821da0f89874a1d1ea7240b78"
+  },
+  {
+    "path": "site/index.html",
+    "bytes": 78004,
+    "sha256": "5fab1c0fef2f1912057a3575312c70eedab437aa157a1da6d6256ee4eafdd9cc"
+  },
+  {
+    "path": "site/team/ayana-reutova-styled.jpg",
+    "bytes": 82261,
+    "sha256": "55f688d80af6adc5b1c3f780b692d3b7a812f77050a40536e52c3bb39ed44f49"
+  },
+  {
+    "path": "site/team/elena-eremkina-styled.jpg",
+    "bytes": 76240,
+    "sha256": "25b1b3140bb83c5808a78999375a467e42e27e2ebd82f10178bac8fc3aaf1386"
+  },
+  {
+    "path": "site/team/elena-kaverzneva-styled.jpg",
+    "bytes": 94590,
+    "sha256": "095d21cc50f6f519dbec085c03123c1a7989d2d08600e48a54f60258c41e7bf1"
+  },
+  {
+    "path": "site/team/georgiy-sysoev-styled.jpg",
+    "bytes": 69986,
+    "sha256": "786d1b8decb60c1eb2c1f70fb8b5e0fc122c85213885b79bb1b8aae185ad84d2"
+  },
+  {
+    "path": "site/team/nina-tumanova-styled.jpg",
+    "bytes": 106550,
+    "sha256": "e0a3a4defce93fb4989e3d075bdd7dc919ac8dda3d6056f3490436794b3af2a4"
+  },
+  {
+    "path": "site/team/vladislav-chausov-styled.jpg",
+    "bytes": 74660,
+    "sha256": "f6d93152be5b94cbc975371b76de20ecec0854e35be40dbd1ff4f09496b0a243"
+  },
+  {
+    "path": "site/team/yulia-dolgova-styled.jpg",
+    "bytes": 76006,
+    "sha256": "6bf877d952eefb756e425a94e5cbde31350f658a1e384e5d47bee1586dd5e74a"
+  },
+  {
+    "path": "source-materials/diplomas-catalog.json",
+    "bytes": 8706,
+    "sha256": "8fda3fed7cfbdd7ab45a3177baeb24a2683e73bb0db2d361210c30f43a5ce972"
+  },
+  {
+    "path": "source-materials/diplomas-duplicates/document-03.pdf",
+    "bytes": 2819121,
+    "sha256": "7507ebfdbc7b3772d0b98688a3bac860201b4d01eb213693dd309f05bd755c0a"
+  },
+  {
+    "path": "source-materials/diplomas-duplicates/document-08.pdf",
+    "bytes": 1018479,
+    "sha256": "e5b998cb821b1ae45717d270e72ecca0d11d27bfe7d36a9a3b6e67438ff2577f"
+  },
+  {
+    "path": "source-materials/original-draft.html",
+    "bytes": 572556,
+    "sha256": "474bf6a38a2eaff4f97d62eed1096c45394d7c8cecde650fad10bcc54fd2eb0a"
+  },
+  {
+    "path": "source-materials/portraits/ayana-original.jpg",
+    "bytes": 422381,
+    "sha256": "748a4b0a5a2a2348f9db4cd9a650d83817fd4cb13c3559f60947556d1f2114c6"
+  },
+  {
+    "path": "source-materials/portraits/ayana-style-reference.png",
+    "bytes": 1971121,
+    "sha256": "d2c27b94289a50f91b304d666d66e46fa5bd0cdd105261ac0e7b01d7c32e1764"
+  },
+  {
+    "path": "source-materials/portraits/georgiy-sysoev-source.png",
+    "bytes": 5389014,
+    "sha256": "8a4ad187b81685ca99833a4bdb5b85b7733e6aabff788520ababe8bb854ece5f"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/ayana-reutova-styled.png",
+    "bytes": 1983876,
+    "sha256": "9bddfd82a57becc160a2abc92abc13528e79689cbdaa38c690bafc333bb4e0b7"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/elena-eremkina-styled.png",
+    "bytes": 1847953,
+    "sha256": "ff9ce63b77f65e80c4d4b5592effb238271f417de0ecf2b17ba379d385ca1ffd"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/elena-kaverzneva-styled.png",
+    "bytes": 2209392,
+    "sha256": "8bbb80f60528faaa4e9ea23024c7fbe7e9ffc2726eb144d0fcafc853f42fc304"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/georgiy-sysoev-styled.png",
+    "bytes": 1811259,
+    "sha256": "c5d580a62aefd62527a2a4b2b1155977f9b24c6b397b2378cbc419d88653d9c8"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/nina-tumanova-styled.png",
+    "bytes": 1643308,
+    "sha256": "5e9449b0aaf0a9ebaad3d7207f9e7751c804a8a1d83d9271eeb1f653efb80e64"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/vladislav-chausov-styled.png",
+    "bytes": 1844108,
+    "sha256": "59325bca0b92255a9bfc5a086d584ce234979f0196d4018c7b9f31e3508b124c"
+  },
+  {
+    "path": "source-materials/portraits/styled-png-originals/yulia-dolgova-styled.png",
+    "bytes": 1820764,
+    "sha256": "0ff052077ecca0b30fc514431fc0dc96201f0572eab1a275fc9e80560af31ef5"
+  },
+  {
+    "path": "source-materials/portraits/vladislav-supplied.png",
+    "bytes": 1844108,
+    "sha256": "59325bca0b92255a9bfc5a086d584ce234979f0196d4018c7b9f31e3508b124c"
+  },
+  {
+    "path": "source-materials/portraits/yulia-original.jpg",
+    "bytes": 284846,
+    "sha256": "4c34f7797abe1ad61dca2897557e4295420b9746393a93efdfac4dabe1e91f76"
+  },
+  {
+    "path": "source-materials/prices/bos.png",
+    "bytes": 3060561,
+    "sha256": "9b9ba22764aae83afc6eaa3cde3ea8f397fcba3d82737470316dd3175354cd31"
+  },
+  {
+    "path": "source-materials/prices/logoped-mio.png",
+    "bytes": 4743267,
+    "sha256": "08733d4c8c981b4b6338e3e75be9cfb873eab4335a17747c1c7aaae1b9a5ce83"
+  },
+  {
+    "path": "source-materials/prices/psych-neuro.png",
+    "bytes": 3115834,
+    "sha256": "3e8b063e1c9b3a46b28a267d50ec003d14a4367ec4a6b98888bab56a40912957"
+  },
+  {
+    "path": "source-materials/prices/tumanova.png",
+    "bytes": 5726128,
+    "sha256": "c792a6c16aa920f6178d9cebb6a86a07eeb6d2efbb1b5c1677a254a017a303c5"
+  }
+]
