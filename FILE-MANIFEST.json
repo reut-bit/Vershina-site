@@ -1,8 +1,18 @@
 [
   {
     "path": "CLAUDE-START.md",
-    "bytes": 21264,
-    "sha256": "aadc863cf59c1077e62c0e1402d9e1c30d53252e31266968fe999b758c802018"
+    "bytes": 21423,
+    "sha256": "fb1871e2f2de4d3c9ea360bb703c1d7c9c4660da81e1134162695440e78c02e0"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1959,
+    "sha256": "3811394349942fc5196e8ff98722f4c42715b261d0540ef0b78f32748b3e9d03"
+  },
+  {
+    "path": "deploy.sh",
+    "bytes": 489,
+    "sha256": "79e5063b5de9c7692b625f116e391827005c9920e6aed65c9fe2258c4501cd49"
   },
   {
     "path": "pered-publikatsiey.md",
