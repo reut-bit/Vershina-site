@@ -1,13 +1,23 @@
 [
   {
     "path": "CLAUDE-START.md",
-    "bytes": 21423,
-    "sha256": "fb1871e2f2de4d3c9ea360bb703c1d7c9c4660da81e1134162695440e78c02e0"
+    "bytes": 23515,
+    "sha256": "2dfa9cb23653b3c3bdf61febe106e9273634314203550f722986382df584856d"
   },
   {
     "path": "README.md",
-    "bytes": 1959,
-    "sha256": "3811394349942fc5196e8ff98722f4c42715b261d0540ef0b78f32748b3e9d03"
+    "bytes": 3067,
+    "sha256": "28cefd930cf0182f0256910fd3efbafbc6d1f8f5bfe0862087b53522198cbe9e"
+  },
+  {
+    "path": "build/build.py",
+    "bytes": 53045,
+    "sha256": "bed4674d4af4798ac8a7790bd0902bc1867f8c934f095e6a7198d4dd7572a0d1"
+  },
+  {
+    "path": "build/customer-content.json",
+    "bytes": 44806,
+    "sha256": "72602315ea69efca5a296564453afc66204231b670ef42c46b32bc92b235faf5"
   },
   {
     "path": "deploy.sh",
@@ -18,6 +28,91 @@
     "path": "pered-publikatsiey.md",
     "bytes": 7169,
     "sha256": "712ba59a7a453742c1ee0345bd23d797aea771b437dad326c1b089490602336a"
+  },
+  {
+    "path": "site/assets/fonts/marck-script-cyrillic.woff2",
+    "bytes": 10476,
+    "sha256": "ff7a375c803ab5deb321a0b71e4e64f51564fdcb899313eee014f05462248053"
+  },
+  {
+    "path": "site/assets/fonts/marck-script-latin-ext.woff2",
+    "bytes": 8704,
+    "sha256": "e5ce26f09972fef56d2e52bf1ae7d14d753bd74a2abdeaffce6da4b3b7cd4f86"
+  },
+  {
+    "path": "site/assets/fonts/marck-script-latin.woff2",
+    "bytes": 13388,
+    "sha256": "d71f9b389de1203d4adcd9f4f33120707d3048a9e8939aeee51fc31d7059747d"
+  },
+  {
+    "path": "site/assets/fonts/montserrat-cyrillic-ext.woff2",
+    "bytes": 24072,
+    "sha256": "744830a0e77dd14dd543a4230d6e3ce67ca961634074b5d536ebafc66c732301"
+  },
+  {
+    "path": "site/assets/fonts/montserrat-cyrillic.woff2",
+    "bytes": 21492,
+    "sha256": "0b00fbd6edcc84cd5f77364bbeb06b75ed263c740061eba34511f1e2ac1a82d3"
+  },
+  {
+    "path": "site/assets/fonts/montserrat-latin-ext.woff2",
+    "bytes": 68224,
+    "sha256": "920711de9ae96c18970fa4faca73cd302b93ac5ed57ebeb6bfec2ddeff930082"
+  },
+  {
+    "path": "site/assets/fonts/montserrat-latin.woff2",
+    "bytes": 35508,
+    "sha256": "6438d7b8ea9c7c3992d5e2fd2afdb1ff948570a3ef0bedae76247b51632960ba"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-400-cyrillic-ext.woff2",
+    "bytes": 8716,
+    "sha256": "2bce65df35cec488cd134be29a85eb68677281a2f0c80f226611f463a4a3de30"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-400-cyrillic.woff2",
+    "bytes": 7252,
+    "sha256": "9503de4dcabf36b0a715f1c223706e11d133c0e51b97b20b32684488ce17e3d7"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-400-latin-ext.woff2",
+    "bytes": 7492,
+    "sha256": "707577b546ffdc2403e67f16f4aa538adf998a2aca3493fce499caf11976d2c6"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-400-latin.woff2",
+    "bytes": 11464,
+    "sha256": "5f81586551e5053bf4206d763f65ebbf2e49b7525cb996eeeeba4a53a8af461a"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-700-cyrillic-ext.woff2",
+    "bytes": 8712,
+    "sha256": "b18f12b8938243fe1bc5ebf0992a7e6db2525060f33a7a2eed5060d14e180c3f"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-700-cyrillic.woff2",
+    "bytes": 7276,
+    "sha256": "3259cd13d982525292f209bc53dd65f25efd670566492c3b7ebed7892a748299"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-700-latin-ext.woff2",
+    "bytes": 7504,
+    "sha256": "94a9333684b6f860dfd07dff784428fc20b448b0f8986fe0bf53acda0fdbffff"
+  },
+  {
+    "path": "site/assets/fonts/pt-sans-700-latin.woff2",
+    "bytes": 11624,
+    "sha256": "38d3aa3b6c9ccdc9af1bc44aacdecdffb11be2ce4febaa1e93eed68b612243fd"
+  },
+  {
+    "path": "site/assets/style.css",
+    "bytes": 35169,
+    "sha256": "f0f6697b36cba2764e3fe626f3f410a17cffcfe22cdd7450cbd1369d23a781c4"
+  },
+  {
+    "path": "site/ceny.html",
+    "bytes": 20101,
+    "sha256": "a48827ead479619457f7419f46c1e9aa2179f1b8746bee4d471b48987b3a3641"
   },
   {
     "path": "site/diplomas/document-01.pdf",
@@ -241,13 +336,33 @@
   },
   {
     "path": "site/diplomy-i-razvitie.html",
-    "bytes": 49163,
-    "sha256": "b7660ce76719b0da7eea539022fdae2387dfe97821da0f89874a1d1ea7240b78"
+    "bytes": 37049,
+    "sha256": "1044ac6271fe9f19f8ccfe6288b471db04a9fd0043bc7839b1e41d4a096e2b7e"
   },
   {
     "path": "site/index.html",
-    "bytes": 78004,
-    "sha256": "5fab1c0fef2f1912057a3575312c70eedab437aa157a1da6d6256ee4eafdd9cc"
+    "bytes": 23964,
+    "sha256": "78093fcb030d59cf5067a1b6fb4ce8d14e777e911a18cd9cea1f76a465890f5b"
+  },
+  {
+    "path": "site/kontakty.html",
+    "bytes": 12545,
+    "sha256": "58ec30ec587760cfc483bd37d759ea749ad0f1b133afa06ff31f139bffbff6d5"
+  },
+  {
+    "path": "site/o-centre.html",
+    "bytes": 17854,
+    "sha256": "a6b42e67adc46cb0a1cb568627aad82b1ec0478d2f19e76732e34b971341508b"
+  },
+  {
+    "path": "site/otzyvy.html",
+    "bytes": 10071,
+    "sha256": "46e15af4fcedc6f0c3fc90ccf91e082719d6c1cad3e67d42f46febb1083420ce"
+  },
+  {
+    "path": "site/specialisty.html",
+    "bytes": 17329,
+    "sha256": "6ee43ed83430805677a6fb301acc81c348087248fddefba6827efac627994d48"
   },
   {
     "path": "site/team/ayana-reutova-styled.jpg",
@@ -283,6 +398,76 @@
     "path": "site/team/yulia-dolgova-styled.jpg",
     "bytes": 76006,
     "sha256": "6bf877d952eefb756e425a94e5cbde31350f658a1e384e5d47bee1586dd5e74a"
+  },
+  {
+    "path": "site/uslugi.html",
+    "bytes": 11665,
+    "sha256": "9474cd9685f6c5f8646f940f078d541895639cd8daa56172fb2ca78301ee6429"
+  },
+  {
+    "path": "site/uslugi/afk.html",
+    "bytes": 9192,
+    "sha256": "7cf7f401d93aa71efc4cf54f69ec33d81d3466c1e2feced8eedf84ac74aa8144"
+  },
+  {
+    "path": "site/uslugi/apparatnye.html",
+    "bytes": 13320,
+    "sha256": "0f5ad491d6cb78e21289545323715fb132bf9d555d7c5896a9731df3a80c1bc9"
+  },
+  {
+    "path": "site/uslugi/defektolog.html",
+    "bytes": 9286,
+    "sha256": "9f71fb82d013576c6f17ee0328ad8796dbf30257a51b7b52f839a6e28fe2948a"
+  },
+  {
+    "path": "site/uslugi/dens.html",
+    "bytes": 10780,
+    "sha256": "0ab29027b616f1f7aac1d81c1be91ed1937364738ce8304ac53738b97e8216c0"
+  },
+  {
+    "path": "site/uslugi/logoped.html",
+    "bytes": 9673,
+    "sha256": "a27d30afd7bcb9a3bc97b2b37636246d42654f1ef9deeb001fe4676fbf555fd0"
+  },
+  {
+    "path": "site/uslugi/miologoped.html",
+    "bytes": 9501,
+    "sha256": "d71b1b7e56d89fe66faca4855c34e17530acc2485b827ccf75a66293b2837a63"
+  },
+  {
+    "path": "site/uslugi/neiroprofil.html",
+    "bytes": 9153,
+    "sha256": "f731ab11956caf116a930725bea71586ee5cdfc218803a5f443f153ac92fe6f1"
+  },
+  {
+    "path": "site/uslugi/neiropsiholog.html",
+    "bytes": 9707,
+    "sha256": "600ade716ee478f6d91d3ae2ced0fc65b969d2e45150413698f66e7472afd7a5"
+  },
+  {
+    "path": "site/uslugi/pedagog-ovz.html",
+    "bytes": 9302,
+    "sha256": "f0b54c81d31f1f7a8033c88439763fb88f5a14d44e0d0281622f929eff837ca9"
+  },
+  {
+    "path": "site/uslugi/psiholog.html",
+    "bytes": 9981,
+    "sha256": "7c44738d49d5463fc110df80acbab7aa778588899eadd8528e41d6634f0c8d66"
+  },
+  {
+    "path": "site/uslugi/teipirovanie.html",
+    "bytes": 10992,
+    "sha256": "48068fa4817a09af79860dad7ac64e72826697b9a1464a87c8fc4bbbcdafb98b"
+  },
+  {
+    "path": "source-materials/customer-site-v1/diplomy-i-razvitie.html",
+    "bytes": 49163,
+    "sha256": "b7660ce76719b0da7eea539022fdae2387dfe97821da0f89874a1d1ea7240b78"
+  },
+  {
+    "path": "source-materials/customer-site-v1/index.html",
+    "bytes": 78004,
+    "sha256": "5fab1c0fef2f1912057a3575312c70eedab437aa157a1da6d6256ee4eafdd9cc"
   },
   {
     "path": "source-materials/diplomas-catalog.json",
