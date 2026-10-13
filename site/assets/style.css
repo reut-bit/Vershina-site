@@ -337,10 +337,12 @@ a.card:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg);border-color
 .contact-actions .btn{flex:1 1 200px}
 .contact-dark small{display:block;margin-top:16px;color:var(--on-navy);font-size:14px}
 .contact-list{display:flex;flex-direction:column;gap:18px}
-.contact-item{display:flex;gap:14px;align-items:flex-start}
-.contact-icon{flex-shrink:0;width:44px;height:44px;border-radius:12px;background:rgba(255,255,255,.08);color:var(--lime);display:flex;align-items:center;justify-content:center;font-size:18px}
+.contact-item{display:flex;gap:16px;align-items:flex-start}
+.contact-item>div{padding-top:2px}
+.contact-icon{flex-shrink:0;width:46px;height:46px;border-radius:14px;background:rgba(188,226,124,.12);border:1px solid rgba(188,226,124,.22);color:var(--lime);display:flex;align-items:center;justify-content:center}
+.contact-icon svg{display:block}
 .contact-item b{display:block;font-family:var(--head);font-weight:700;color:#fff;font-size:14px}
-.contact-item a,.contact-item span{display:block;color:var(--on-navy-2);font-size:16px}
+.contact-item>div>a,.contact-item>div>span{display:block;color:var(--on-navy-2);font-size:16px}
 .contact-item .big{font-family:var(--head);font-weight:800;font-size:22px;color:#fff}
 .contact-item .lime{color:var(--lime);font-family:var(--head);font-weight:700;font-size:14px;margin-top:4px}
 .map{margin-top:28px;border-radius:22px;overflow:hidden;border:1px solid var(--line);box-shadow:var(--shadow-sm);background:var(--mist)}

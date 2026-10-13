@@ -29,16 +29,18 @@ INN, OGRN = "774300416875", "318774600530861"
 VIDEOS = ["CceLc5ONOPU", "cF_ZE5bkTUo", "f0HQLnpyubc"]
 
 ICON = {
-    "phone": '<path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/>',
-    "send": '<path d="M21.4 3.6 2.9 10.8c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.9 1.4 1.1 2 .5l2.6-2.5 4.9 3.6c.7.5 1.7.1 1.9-.8L23 4.9c.2-1-.7-1.7-1.6-1.3zM9.6 14.6l8.7-6.9-7.2 8 -.3 3.1z"/>',
-    "pin": '<path d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/>',
-    "clock": '<path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zm1 10.6 3.5 2.1-.8 1.3L11 13.2V7h2z"/>',
-    "home": '<path d="M12 3 2 11h3v9h5v-6h4v6h5v-9h3z"/>',
+    "phone": '<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/>',
+    "send": '<path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4 20-7z"/>',
+    "pin": '<path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/>',
+    "clock": '<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
+    "home": '<path d="M3 9.5 12 3l9 6.5V20a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M9 22V12h6v10"/>',
 }
 
 
 def icon(name):
-    return f'<span class="contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="currentColor">{ICON[name]}</svg></span>'
+    return (f'<span class="contact-icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" '
+            f'stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">{ICON[name]}</svg></span>')
+
 
 LOGO_PATHS = (
     '<line x1="10" y1="50" x2="30" y2="43" stroke="{a}" stroke-width="5" stroke-linecap="round"/>'
